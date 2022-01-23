@@ -1,3 +1,41 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+.package-button-bg{
+    background-color: #F496D1;
+}
+
+.far{
+    background-color: #5243c250;
+    border-radius: 50%
+}
+
+.highlighted{
+background: #3F87F5;
+border-radius: 26px;
+color: white;
+box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+}
+
+.package-button-bg{
+    background-color: #F496D1;
+    border-radius: 24px;
+}
+
+.heilighted-package-button-bg{
+    background-color: white;
+    border-radius: 24px;
+}
+
+.badge-position{
+    top: 0;
+    right: 18px;
+}
+
+
+
+.normal{
+    width: 240px;
+
+}

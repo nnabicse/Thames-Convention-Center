@@ -2,28 +2,32 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-.far{
+/* for card 2nd section only */
+.icon-bg{
     background-color: #5243c250;
     border-radius: 50%
 }
 
+/* for heifglighted part only */
 .custom-shadow-radious-highlighted{
 border-radius: 26px;
 box-shadow: 0px 42px 15px rgba(63, 135, 245, 0.25);
 }
 
+/* for contact part only */
 .custom-shadow-radious-contact{
     border-radius: 26px;
     box-shadow: 0px 42px 15px gainsboro;
     }
 
-
+/* only for badge */
 .badge-position{
     top: 0;
     right: 18px;
 }
 
 
+/* for carousel slider image */
 .slider-image{
     height: 584px;
     width: auto;
